@@ -1,0 +1,12 @@
+/mnt/fcbaacfc-d3fb-4aeb-ade5-bacaa56db2a1/DevTrainnings/dotnetPractice/DataStructures/DataStructures/bin/Debug/net6.0/DataStructures.deps.json
+/mnt/fcbaacfc-d3fb-4aeb-ade5-bacaa56db2a1/DevTrainnings/dotnetPractice/DataStructures/DataStructures/bin/Debug/net6.0/DataStructures.dll
+/mnt/fcbaacfc-d3fb-4aeb-ade5-bacaa56db2a1/DevTrainnings/dotnetPractice/DataStructures/DataStructures/bin/Debug/net6.0/ref/DataStructures.dll
+/mnt/fcbaacfc-d3fb-4aeb-ade5-bacaa56db2a1/DevTrainnings/dotnetPractice/DataStructures/DataStructures/bin/Debug/net6.0/DataStructures.pdb
+/mnt/fcbaacfc-d3fb-4aeb-ade5-bacaa56db2a1/DevTrainnings/dotnetPractice/DataStructures/DataStructures/obj/Debug/net6.0/DataStructures.csproj.AssemblyReference.cache
+/mnt/fcbaacfc-d3fb-4aeb-ade5-bacaa56db2a1/DevTrainnings/dotnetPractice/DataStructures/DataStructures/obj/Debug/net6.0/DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/fcbaacfc-d3fb-4aeb-ade5-bacaa56db2a1/DevTrainnings/dotnetPractice/DataStructures/DataStructures/obj/Debug/net6.0/DataStructures.AssemblyInfoInputs.cache
+/mnt/fcbaacfc-d3fb-4aeb-ade5-bacaa56db2a1/DevTrainnings/dotnetPractice/DataStructures/DataStructures/obj/Debug/net6.0/DataStructures.AssemblyInfo.cs
+/mnt/fcbaacfc-d3fb-4aeb-ade5-bacaa56db2a1/DevTrainnings/dotnetPractice/DataStructures/DataStructures/obj/Debug/net6.0/DataStructures.csproj.CoreCompileInputs.cache
+/mnt/fcbaacfc-d3fb-4aeb-ade5-bacaa56db2a1/DevTrainnings/dotnetPractice/DataStructures/DataStructures/obj/Debug/net6.0/DataStructures.dll
+/mnt/fcbaacfc-d3fb-4aeb-ade5-bacaa56db2a1/DevTrainnings/dotnetPractice/DataStructures/DataStructures/obj/Debug/net6.0/ref/DataStructures.dll
+/mnt/fcbaacfc-d3fb-4aeb-ade5-bacaa56db2a1/DevTrainnings/dotnetPractice/DataStructures/DataStructures/obj/Debug/net6.0/DataStructures.pdb
